@@ -72,17 +72,20 @@ This project simulates a real-world **AI recruiter pipeline** that parses resume
 ---
 
 ## 📁 Project Structure
-D:\AI_CAREER_
+AI_CAREER/
 │
-├── app.py
-├── resume_module.py
-├── llm_engine.py
-├── ats_engine.py
-├── faiss_store.py
-├── vector_store/
-├── engine/
-└── data/
-
+├── app.py                  # Streamlit frontend UI
+├── resume_module.py        # Resume parsing + orchestration layer
+├── llm_engine.py           # Groq LLM-based intelligence layer
+├── ats_engine.py           # ATS scoring + matching logic
+├── faiss_store.py          # Vector DB (FAISS) for candidate search
+│
+├── vector_store/           # Embedding + retrieval utilities
+├── engine/                 # Core processing modules
+├── data/                   # Stored embeddings & metadata
+│
+├── .env                    # API keys (not pushed to GitHub)
+└── requirements.txt
 
 ---
 
@@ -92,16 +95,19 @@ D:\AI_CAREER_
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-ats-resume-system.git
 cd ai-ats-resume-system
+```
 
-2️⃣ Create virtual environment (Python 3.11 recommended)
+### 2️⃣ Create virtual environment (Python 3.11 recommended)
 python -m venv .venv
 .venv\Scripts\activate
-3️⃣ Install dependencies
+
+### 3️⃣ Install dependencies
 pip install -r requirements.txt
 📦 Requirements
 
-If you don't have requirements.txt, use:
+If you don't have requirements.txt,
 
+use:
 streamlit
 python-dotenv
 groq
@@ -112,14 +118,17 @@ pandas
 scikit-learn
 docx2txt
 PyPDF2
-🔑 Environment Variables
+
+
+###🔑 Environment Variables
 
 Create a .env file:
-
 GROQ_API_KEY=your_api_key_here
-▶️ Run Project
+
+### ▶️ Run Project
 streamlit run app.py
-📊 System Flow
+
+## 📊 System Flow
 Resume Upload
       ↓
 Text Extraction
