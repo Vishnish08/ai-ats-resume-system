@@ -1,0 +1,1114 @@
+{
+  "Software Engineer / Developer": {
+    "Skills": [
+      "Software development",
+      "Coding",
+      "Problem-solving",
+      "Debugging",
+      "Unit Testing",
+      "Code Optimization",
+      "Design Patterns"
+    ],
+    "Tools": [
+      "Git",
+      "Jira",
+      "VS Code",
+      "IntelliJ IDEA",
+      "Docker",
+      "Postman"
+    ],
+    "Concepts": [
+      "Algorithms",
+      "Data Structures",
+      "OOP",
+      "Software Architecture",
+      "Agile Methodologies",
+      "SCRUM"
+    ],
+    "Soft Skills": [
+      "Communication",
+      "Collaboration",
+      "Time Management",
+      "Adaptability",
+      "Critical Thinking"
+    ]
+  },
+  "Full Stack Developer": {
+    "Skills": [
+      "Front-end Development",
+      "Back-end Development",
+      "REST API Development",
+      "GraphQL",
+      "Database Management",
+      "Problem-solving"
+    ],
+    "Tools": [
+      "React",
+      "Angular",
+      "Node.js",
+      "Python",
+      "Java",
+      "MySQL",
+      "MongoDB",
+      "Postman",
+      "Docker",
+      "VS Code"
+    ],
+    "Concepts": [
+      "MVC Architecture",
+      "Responsive Design",
+      "Scalability",
+      "Agile Methodology",
+      "CI/CD"
+    ],
+    "Soft Skills": [
+      "Communication",
+      "Collaboration",
+      "Time Management",
+      "Adaptability",
+      "Problem-solving"
+    ]
+  },
+  "Front-End Developer": {
+    "Skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Responsive Design",
+      "UI/UX Design",
+      "Cross-browser Compatibility",
+      "Animation & Interactivity"
+    ],
+    "Tools": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "Figma",
+      "Adobe XD",
+      "Chrome DevTools",
+      "Bootstrap",
+      "Tailwind CSS"
+    ],
+    "Concepts": [
+      "Component-based Architecture",
+      "Accessibility",
+      "Design Patterns",
+      "Web Performance Optimization"
+    ],
+    "Soft Skills": [
+      "Creativity",
+      "Attention to Detail",
+      "Communication",
+      "Collaboration",
+      "Problem-solving"
+    ]
+  },
+  "Back-End Developer": {
+    "Skills": [
+      "API Development",
+      "Database Design",
+      "Server-side Logic",
+      "Microservices",
+      "Authentication & Authorization"
+    ],
+    "Tools": [
+      "Python",
+      "Java",
+      "Node.js",
+      "SQL",
+      "NoSQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Concepts": [
+      "REST API",
+      "GraphQL",
+      "Microservices Architecture",
+      "Caching",
+      "Security Best Practices"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Collaboration",
+      "Communication"
+    ]
+  },
+  "Mobile App Developer": {
+    "Skills": [
+      "iOS Development",
+      "Android Development",
+      "Cross-platform Development",
+      "App Testing",
+      "App Deployment"
+    ],
+    "Tools": [
+      "Swift",
+      "Kotlin",
+      "Java",
+      "Flutter",
+      "React Native",
+      "Xcode",
+      "Android Studio"
+    ],
+    "Concepts": [
+      "Mobile UI/UX",
+      "API Integration",
+      "App Store Guidelines",
+      "Performance Optimization"
+    ],
+    "Soft Skills": [
+      "Creativity",
+      "Problem-solving",
+      "Adaptability",
+      "Teamwork",
+      "Attention to Detail"
+    ]
+  },
+
+
+  "DevOps Engineer": {
+    "Skills": [
+      "CI/CD Pipeline Setup",
+      "Infrastructure Automation",
+      "System Monitoring",
+      "Cloud Deployment"
+    ],
+    "Tools": [
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Jenkins",
+      "GitLab CI/CD",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Linux",
+      "Python"
+    ],
+    "Concepts": [
+      "Automation",
+      "Continuous Integration & Delivery",
+      "Infrastructure as Code",
+      "Monitoring & Logging",
+      "Scalability",
+      "Security"
+    ],
+    "Soft Skills": [
+      "Problem-solving",
+      "Analytical Thinking",
+      "Collaboration",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  "Site Reliability Engineer (SRE)": {
+    "Skills": [
+      "Reliability Engineering",
+      "Incident Management",
+      "System Optimization",
+      "Monitoring & Alerting"
+    ],
+    "Tools": [
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "PagerDuty",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "Concepts": [
+      "SLA/SLO/SLI",
+      "Capacity Planning",
+      "High Availability",
+      "Disaster Recovery"
+    ],
+    "Soft Skills": [
+      "Problem-solving",
+      "Collaboration",
+      "Analytical Thinking",
+      "Communication"
+    ]
+  },
+  "Embedded Systems Engineer": {
+    "Skills": [
+      "Firmware Development",
+      "Hardware-Software Integration",
+      "Real-time Systems",
+      "IoT Device Development"
+    ],
+    "Tools": [
+      "C/C++",
+      "Arduino",
+      "Raspberry Pi",
+      "Oscilloscope",
+      "JTAG",
+      "RTOS",
+      "MATLAB",
+      "SolidWorks"
+    ],
+    "Concepts": [
+      "Microcontrollers",
+      "Signal Processing",
+      "Embedded Communication Protocols",
+      "Low-level Programming"
+    ],
+    "Soft Skills": [
+      "Problem-solving",
+      "Attention to Detail",
+      "Critical Thinking",
+      "Collaboration"
+    ]
+  },
+  "Data Scientist": {
+    "Skills": [
+      "Data Analysis",
+      "Statistical Modeling",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Cleaning",
+      "Feature Engineering"
+    ],
+    "Tools": [
+      "Python",
+      "R",
+      "SQL",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "Concepts": [
+      "Exploratory Data Analysis",
+      "Predictive Modeling",
+      "Data Visualization",
+      "Hypothesis Testing",
+      "AI Projects"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Communication",
+      "Critical Thinking",
+      "Attention to Detail"
+    ]
+  },
+  "Machine Learning Engineer (ML Engineer)": {
+    "Skills": [
+      "Model Training",
+      "Data Preprocessing",
+      "Feature Engineering",
+      "Evaluation & Metrics",
+      "Deployment"
+    ],
+    "Tools": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Keras",
+      "Pandas",
+      "NumPy"
+    ],
+    "Concepts": [
+      "Machine Learning Algorithms",
+      "Statistics",
+      "Data Analysis",
+      "Model Optimization",
+      "Hyperparameter Tuning"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Collaboration",
+      "Communication",
+      "Attention to Detail"
+    ]
+  }
+,
+
+  "Deep Learning Engineer (DL Engineer)": {
+    "Skills": [
+      "Neural Network Design",
+      "CNN",
+      "RNN",
+      "GANs",
+      "Transformers",
+      "Computer Vision",
+      "NLP Tasks"
+    ],
+    "Tools": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "OpenCV",
+      "HuggingFace Transformers"
+    ],
+    "Concepts": [
+      "Deep Learning Algorithms",
+      "Transfer Learning",
+      "Model Optimization",
+      "Data Augmentation",
+      "AI Research"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Creativity",
+      "Collaboration",
+      "Attention to Detail"
+    ]
+  },
+  "Generative AI Engineer / Gen AI Specialist": {
+    "Skills": [
+      "Generative AI Models",
+      "Prompt Engineering",
+      "Fine-tuning Models",
+      "LLM-based Applications",
+      "Text-to-Image Models"
+    ],
+    "Tools": [
+      "Python",
+      "OpenAI API",
+      "HuggingFace Transformers",
+      "Diffusers",
+      "PyTorch",
+      "TensorFlow",
+      "LangChain"
+    ],
+    "Concepts": [
+      "Large Language Models",
+      "Generative AI Techniques",
+      "Evaluation Metrics",
+      "Data Preprocessing",
+      "Model Deployment"
+    ],
+    "Soft Skills": [
+      "Creativity",
+      "Problem-solving",
+      "Analytical Thinking",
+      "Collaboration",
+      "Communication"
+    ]
+  },
+  "NLP Engineer": {
+    "Skills": [
+      "Text Processing",
+      "Sentiment Analysis",
+      "Named Entity Recognition",
+      "Topic Modeling",
+      "Text Classification"
+    ],
+    "Tools": [
+      "Python",
+      "NLTK",
+      "spaCy",
+      "HuggingFace Transformers",
+      "Gensim",
+      "Scikit-learn"
+    ],
+    "Concepts": [
+      "Natural Language Processing",
+      "Text Mining",
+      "Machine Learning for NLP",
+      "Word Embeddings",
+      "Preprocessing Techniques"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Collaboration",
+      "Communication",
+      "Attention to Detail"
+    ]
+  },
+  "LLM Specialist": {
+    "Skills": [
+      "Prompt Engineering",
+      "Fine-tuning LLMs",
+      "Model Evaluation",
+      "Deployment",
+      "LLM Applications"
+    ],
+    "Tools": [
+      "Python",
+      "HuggingFace Transformers",
+      "OpenAI API",
+      "LangChain",
+      "PEFT"
+    ],
+    "Concepts": [
+      "Large Language Models",
+      "Reinforcement Learning from Human Feedback",
+      "Evaluation Metrics",
+      "Data Preprocessing"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Collaboration",
+      "Communication",
+      "Attention to Detail"
+    ]
+  },
+  "MLOps Engineer": {
+    "Skills": [
+      "Model Deployment",
+      "Monitoring ML Models",
+      "CI/CD for ML",
+      "Pipeline Orchestration",
+      "Version Control for Models"
+    ],
+    "Tools": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "Airflow",
+      "Kubeflow",
+      "Seldon",
+      "Prometheus"
+    ],
+    "Concepts": [
+      "Scalable ML Pipelines",
+      "Cloud Platforms",
+      "Model Versioning",
+      "Automation",
+      "Monitoring & Logging"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Collaboration",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  "Data Analyst": {
+    "Skills": [
+      "Data Cleaning",
+      "Reporting",
+      "Data Visualization",
+      "Trend Analysis",
+      "KPI Monitoring"
+    ],
+    "Tools": [
+      "SQL",
+      "Excel",
+      "PowerBI",
+      "Tableau",
+      "Google Data Studio",
+      "Looker"
+    ],
+    "Concepts": [
+      "Data Interpretation",
+      "Business Metrics",
+      "Dashboards",
+      "Data Analysis Techniques",
+      "Statistical Analysis"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Communication",
+      "Problem-solving",
+      "Attention to Detail",
+      "Time Management"
+    ]
+  },
+  "Data Engineer": {
+    "Skills": [
+      "ETL Pipelines",
+      "Data Warehousing",
+      "Data Lakes",
+      "Batch & Stream Processing",
+      "Data Modeling"
+    ],
+    "Tools": [
+      "Spark",
+      "Hadoop",
+      "Airflow",
+      "BigQuery",
+      "Redshift",
+      "Kafka",
+      "Snowflake"
+    ],
+    "Concepts": [
+      "Data Architecture",
+      "Scalability",
+      "Data Integration",
+      "Performance Optimization",
+      "Cloud Data Platforms"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Collaboration",
+      "Communication",
+      "Attention to Detail"
+    ]
+  }
+, 
+  "AI/ML Researcher": {
+    "Skills": [
+      "Experimental Design",
+      "Algorithm Research",
+      "NLP Tasks",
+      "Computer Vision Tasks",
+      "Reinforcement Learning",
+      "Paper Writing"
+    ],
+    "Tools": [
+      "Python",
+      "R",
+      "TensorFlow",
+      "PyTorch",
+      "OpenCV",
+      "HuggingFace",
+      "MATLAB"
+    ],
+    "Concepts": [
+      "Research Methodology",
+      "Data Analysis",
+      "Model Evaluation",
+      "Literature Review",
+      "Experimentation",
+      "Statistical Analysis"
+    ],
+    "Soft Skills": [
+      "Critical Thinking",
+      "Analytical Thinking",
+      "Problem-solving",
+      "Collaboration",
+      "Communication",
+      "Attention to Detail"
+    ]
+  },
+  "Business Intelligence (BI) Developer": {
+    "Skills": [
+      "Dashboard Development",
+      "Data Analysis",
+      "Reporting",
+      "ETL Processes",
+      "KPI Tracking"
+    ],
+    "Tools": [
+      "PowerBI",
+      "Tableau",
+      "Looker",
+      "Excel",
+      "SQL"
+    ],
+    "Concepts": [
+      "Data Modeling",
+      "Visualization Techniques",
+      "Analytics Strategy",
+      "Data Warehousing"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Communication",
+      "Attention to Detail",
+      "Collaboration"
+    ]
+  },
+  "Cloud Engineer": {
+    "Skills": [
+      "Cloud Infrastructure Setup",
+      "Cloud Deployment",
+      "Serverless Architecture",
+      "Networking & Security in Cloud"
+    ],
+    "Tools": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform",
+      "CloudFormation",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Concepts": [
+      "Cloud Architecture",
+      "Scalability",
+      "High Availability",
+      "Disaster Recovery",
+      "Performance Monitoring"
+    ],
+    "Soft Skills": [
+      "Problem-solving",
+      "Analytical Thinking",
+      "Collaboration",
+      "Communication",
+      "Adaptability"
+    ]
+  },
+  "Cloud Solutions Architect": {
+    "Skills": [
+      "Cloud Architecture Design",
+      "Scalable Solutions",
+      "Security Design",
+      "Multi-cloud Strategy",
+      "Integration Planning"
+    ],
+    "Tools": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Terraform",
+      "CloudFormation",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Concepts": [
+      "Cloud Design Patterns",
+      "Microservices Architecture",
+      "High Availability",
+      "Disaster Recovery",
+      "Performance Optimization"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Communication",
+      "Leadership",
+      "Collaboration"
+    ]
+  }
+, 
+  "Network / Security Engineer": {
+    "Skills": [
+      "Network Design",
+      "Firewall Configuration",
+      "Intrusion Detection & Prevention",
+      "VPN Setup",
+      "Routing & Switching",
+      "Network Troubleshooting",
+      "Security Auditing",
+      "Vulnerability Assessment"
+    ],
+    "Tools": [
+      "Wireshark",
+      "Nmap",
+      "Cisco IOS",
+      "Firewalls (Palo Alto, Fortinet)",
+      "SNMP Tools",
+      "SIEM Tools (Splunk, ArcSight)"
+    ],
+    "Concepts": [
+      "TCP/IP",
+      "OSI Model",
+      "Network Security Protocols",
+      "Encryption & Cryptography",
+      "Incident Response",
+      "Access Control",
+      "Compliance Standards (ISO, NIST)"
+    ],
+    "Soft Skills": [
+      "Problem-solving",
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Collaboration",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "Skills": [
+      "Threat Detection",
+      "Incident Response",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Log Analysis",
+      "SOC Operations",
+      "Malware Analysis",
+      "Phishing Analysis"
+    ],
+    "Tools": [
+      "Python",
+      "Wireshark",
+      "Splunk",
+      "Kali Linux",
+      "Metasploit",
+      "SIEM Tools",
+      "Nmap",
+      "Burp Suite"
+    ],
+    "Concepts": [
+      "Cybersecurity Frameworks (NIST, ISO 27001)",
+      "Firewalls & IDS/IPS",
+      "Risk Assessment",
+      "Incident Management",
+      "Network Security",
+      "Access Management",
+      "Encryption"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Attention to Detail",
+      "Collaboration",
+      "Communication",
+      "Critical Thinking",
+      "Adaptability"
+    ]
+  }
+,
+
+  "QA / Test Automation Engineer": {
+    "Skills": [
+      "Test Planning",
+      "Automation Testing",
+      "Manual Testing",
+      "Regression Testing",
+      "Performance Testing",
+      "API Testing",
+      "Bug Tracking"
+    ],
+    "Tools": [
+      "Selenium",
+      "Cypress",
+      "Postman",
+      "JMeter",
+      "JUnit",
+      "TestNG",
+      "Python",
+      "Java",
+      "Jira"
+    ],
+    "Concepts": [
+      "Test Automation Frameworks",
+      "QA Methodologies",
+      "Continuous Integration Testing",
+      "Defect Lifecycle",
+      "Test Case Design",
+      "Agile Testing"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Problem-solving",
+      "Collaboration",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  "Product Manager (Tech)": {
+    "Skills": [
+      "Product Lifecycle Management",
+      "Roadmap Planning",
+      "Requirement Gathering",
+      "Stakeholder Management",
+      "Market Research",
+      "Feature Prioritization",
+      "Data Analysis"
+    ],
+    "Tools": [
+      "Jira",
+      "Trello",
+      "Confluence",
+      "Asana",
+      "Excel",
+      "PowerBI",
+      "Tableau"
+    ],
+    "Concepts": [
+      "Agile / Scrum Methodology",
+      "Project Management",
+      "User Experience & Design Thinking",
+      "KPIs & Metrics",
+      "Competitive Analysis"
+    ],
+    "Soft Skills": [
+      "Leadership",
+      "Communication",
+      "Decision Making",
+      "Collaboration",
+      "Problem-solving",
+      "Strategic Thinking",
+      "Negotiation"
+    ]
+  },
+  "Software Architect": {
+    "Skills": [
+      "System Design",
+      "Architecture Patterns",
+      "Scalability Planning",
+      "Code Review",
+      "Microservices Architecture",
+      "Performance Optimization",
+      "Integration Design"
+    ],
+    "Tools": [
+      "UML",
+      "Draw.io",
+      "Lucidchart",
+      "Enterprise Architect",
+      "VS Code",
+      "Git"
+    ],
+    "Concepts": [
+      "Design Patterns",
+      "Software Architecture Principles",
+      "High Availability Systems",
+      "Security Best Practices",
+      "Cloud Architecture",
+      "API Design"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Leadership",
+      "Collaboration",
+      "Communication",
+      "Strategic Planning"
+    ]
+  },
+  "Cloud Security Engineer": {
+    "Skills": [
+      "Cloud Security Implementation",
+      "Identity & Access Management",
+      "Threat Detection in Cloud",
+      "Compliance Auditing",
+      "Incident Response in Cloud"
+    ],
+    "Tools": [
+      "AWS Security Tools",
+      "Azure Security Center",
+      "GCP Security Tools",
+      "Terraform",
+      "CloudWatch",
+      "CloudTrail",
+      "SIEM Tools"
+    ],
+    "Concepts": [
+      "Cloud Security Best Practices",
+      "Encryption & Key Management",
+      "Compliance Standards (ISO, NIST, SOC2, GDPR)",
+      "Network Security in Cloud",
+      "IAM Policies"
+    ],
+    "Soft Skills": [
+      "Analytical Thinking",
+      "Problem-solving",
+      "Attention to Detail",
+      "Collaboration",
+      "Communication",
+      "Adaptability"
+    ]
+  }
+,
+    "Biomedical Engineer": {
+        "Skills": ["Medical Device Design", "Biomechanics", "Biomaterials", "Tissue Engineering", "Clinical Testing"],
+        "Tools": ["MATLAB", "SolidWorks", "AutoCAD", "LabVIEW", "3D Printing Software"],
+        "Concepts": ["Physiology", "Anatomy", "Medical Imaging", "Regulatory Compliance (FDA, ISO)"],
+        "Soft Skills": ["Problem-solving", "Critical Thinking", "Attention to Detail", "Collaboration"]
+    },
+    "Clinical Informatics Specialist": {
+        "Skills": ["Health Data Analysis", "EHR Management", "Clinical Decision Support", "Data Integration"],
+        "Tools": ["Epic", "Cerner", "SQL", "Python", "R", "Tableau"],
+        "Concepts": ["Medical Terminology", "Data Privacy (HIPAA)", "Healthcare Workflow Optimization"],
+        "Soft Skills": ["Analytical Thinking", "Communication", "Problem-solving"]
+    },
+    "Clinical Engineer": {
+        "Skills": ["Medical Equipment Maintenance", "Biomedical Device Installation", "Calibration", "Troubleshooting"],
+        "Tools": ["Diagnostic Equipment", "Maintenance Software", "Medical Imaging Systems"],
+        "Concepts": ["Patient Safety", "Biomedical Standards", "Regulatory Compliance"],
+        "Soft Skills": ["Attention to Detail", "Problem-solving", "Communication"]
+    },
+    "Medical Data Analyst": {
+        "Skills": ["Statistical Analysis", "Data Cleaning", "Predictive Modeling", "Data Visualization"],
+        "Tools": ["Python", "R", "SQL", "Tableau", "PowerBI", "Excel"],
+        "Concepts": ["Clinical Trials Data", "Health Informatics", "EHR Analytics", "HIPAA Compliance"],
+        "Soft Skills": ["Analytical Thinking", "Problem-solving", "Attention to Detail"]
+    },
+    "Medical Technologist": {
+        "Skills": ["Laboratory Testing", "Quality Control", "Sample Analysis", "Diagnostic Techniques"],
+        "Tools": ["Microscopes", "Centrifuges", "Spectrophotometers", "Lab Information Systems (LIS)"],
+        "Concepts": ["Clinical Chemistry", "Hematology", "Microbiology", "Laboratory Safety"],
+        "Soft Skills": ["Attention to Detail", "Accuracy", "Time Management"]
+    },
+    "Biomechanical Engineer": {
+        "Skills": ["Biomechanics", "Prosthetics Design", "Gait Analysis", "Orthopedic Device Development"],
+        "Tools": ["MATLAB", "SolidWorks", "3D Modeling Software", "Motion Capture Systems"],
+        "Concepts": ["Kinematics", "Anatomy", "Material Science", "Human Factors Engineering"],
+        "Soft Skills": ["Problem-solving", "Critical Thinking", "Collaboration"]
+    },
+    "Rehabilitation Engineer": {
+        "Skills": ["Assistive Device Design", "Ergonomics", "Adaptive Technology", "Patient Evaluation"],
+        "Tools": ["CAD Software", "Prototyping Tools", "Motion Analysis Systems"],
+        "Concepts": ["Disability Studies", "Human Anatomy", "Occupational Therapy Principles"],
+        "Soft Skills": ["Empathy", "Problem-solving", "Collaboration"]
+    },
+    "Researcher": {
+        "Skills": ["Experimental Design", "Data Analysis", "Scientific Writing", "Literature Review"],
+        "Tools": ["Python", "R", "MATLAB", "SPSS", "Lab Equipment"],
+        "Concepts": ["Research Methodology", "Statistics", "Hypothesis Testing", "Ethics in Research"],
+        "Soft Skills": ["Critical Thinking", "Analytical Skills", "Attention to Detail", "Persistence"]
+    },
+    "Robotics Engineer": {
+        "Skills": ["Robotics Design", "Control Systems", "Embedded Systems", "AI for Robotics", "Automation"],
+        "Tools": ["ROS", "MATLAB", "SolidWorks", "Python", "C++", "Arduino", "Raspberry Pi"],
+        "Concepts": ["Kinematics", "Sensor Integration", "Actuators", "Machine Learning"],
+        "Soft Skills": ["Problem-solving", "Teamwork", "Critical Thinking"]
+    },
+    "Fintech Engineer": {
+        "Skills": ["Payment Systems", "Blockchain Integration", "Algorithmic Trading", "Risk Analysis", "API Development"],
+        "Tools": ["Python", "Java", "SQL", "AWS", "React", "Node.js", "Fintech Platforms"],
+        "Concepts": ["Financial Regulations", "Digital Payments", "Data Security", "Trading Algorithms"],
+        "Soft Skills": ["Analytical Thinking", "Problem-solving", "Attention to Detail"]
+    },
+    "Quantitative Analyst / Quant Analyst": {
+        "Skills": ["Financial Modeling", "Risk Modeling", "Algorithmic Trading", "Derivatives Pricing", "Statistics", "Mathematics"],
+        "Tools": ["Python", "R", "MATLAB", "Excel", "VBA", "SQL"],
+        "Concepts": ["Probability Theory", "Stochastic Processes", "Time Series Analysis", "Portfolio Management"],
+        "Soft Skills": ["Analytical Thinking", "Problem-solving", "Attention to Detail"]
+    },
+    "Blockchain Developer": {
+        "Skills": ["Smart Contracts", "DApp Development", "Tokenomics", "Consensus Algorithms"],
+        "Tools": ["Solidity", "Ethereum", "Hyperledger", "Truffle", "Ganache", "Web3.js"],
+        "Concepts": ["Cryptography", "Decentralization", "Blockchain Protocols", "Security Audits"],
+        "Soft Skills": ["Problem-solving", "Analytical Thinking", "Attention to Detail"]
+    },
+    "Cybersecurity Specialist": {
+        "Skills": ["Threat Analysis", "Penetration Testing", "Incident Response", "Vulnerability Assessment", "Network Security"],
+        "Tools": ["Wireshark", "Metasploit", "Nmap", "Kali Linux", "SIEM Tools", "Splunk"],
+        "Concepts": ["Cryptography", "Firewalls", "Intrusion Detection", "Security Policies", "Compliance Standards (ISO, NIST)"],
+        "Soft Skills": ["Analytical Thinking", "Problem-solving", "Attention to Detail", "Communication"]
+    }
+,
+
+    "Marketing Manager": {
+        "Marketing Skills": ["SEO", "Content Marketing", "Social Media Marketing", "Email Marketing", "Brand Management", "Campaign Management"],
+        "Tools": ["Google Analytics", "HubSpot", "Mailchimp", "Hootsuite", "SEMRush", "Canva"],
+        "Concepts": ["Market Research", "Customer Segmentation", "Marketing Strategy", "Lead Generation"],
+        "Soft Skills": ["Creativity", "Communication", "Leadership", "Analytical Thinking", "Negotiation"]
+    },
+    "Sales Executive / Sales Manager": {
+        "Sales Skills": ["Lead Generation", "CRM Management", "Cold Calling", "Negotiation", "Closing Deals", "Sales Forecasting"],
+        "Tools": ["Salesforce", "HubSpot CRM", "Zoho CRM", "Pipedrive"],
+        "Concepts": ["B2B Sales", "B2C Sales", "Customer Relationship Management", "Sales Strategy"],
+        "Soft Skills": ["Communication", "Persuasion", "Problem-solving", "Time Management"]
+    },
+    "Human Resources (HR) Manager": {
+        "HR Skills": ["Recruitment", "Employee Onboarding", "Talent Management", "Performance Management", "Employee Engagement"],
+        "Tools": ["Workday", "SAP SuccessFactors", "BambooHR", "Zoho People"],
+        "Concepts": ["HR Policies", "Organizational Development", "Labor Laws", "Conflict Resolution"],
+        "Soft Skills": ["Communication", "Empathy", "Negotiation", "Leadership"]
+    },
+    "Finance Manager / Accountant": {
+        "Finance Skills": ["Financial Reporting", "Budgeting", "Forecasting", "Accounts Payable/Receivable", "Taxation", "Auditing"],
+        "Tools": ["Excel", "QuickBooks", "SAP", "Tally", "Oracle Financials"],
+        "Concepts": ["Financial Analysis", "Cash Flow Management", "Cost Accounting", "Risk Management"],
+        "Soft Skills": ["Analytical Thinking", "Attention to Detail", "Ethics", "Decision Making"]
+    },
+    "Content Writer / Copywriter": {
+        "Writing Skills": ["Creative Writing", "SEO Writing", "Copywriting", "Technical Writing", "Editing", "Proofreading"],
+        "Tools": ["Grammarly", "Hemingway Editor", "WordPress", "Google Docs", "SEO Tools"],
+        "Concepts": ["Content Strategy", "Audience Research", "Keyword Research"],
+        "Soft Skills": ["Creativity", "Communication", "Adaptability", "Time Management"]
+    },
+    "Graphic Designer / UI Designer": {
+        "Design Skills": ["UI/UX Design", "Typography", "Illustration", "Brand Identity", "Wireframing", "Prototyping"],
+        "Tools": ["Adobe Photoshop", "Illustrator", "Figma", "Sketch", "Canva"],
+        "Concepts": ["Color Theory", "Design Principles", "User Experience", "Responsive Design"],
+        "Soft Skills": ["Creativity", "Communication", "Attention to Detail"]
+    },
+    "Project Manager (Non-Tech)": {
+        "Management Skills": ["Project Planning", "Risk Management", "Resource Allocation", "Budgeting", "Stakeholder Management"],
+        "Tools": ["MS Project", "Jira", "Asana", "Trello", "Smartsheet"],
+        "Concepts": ["Project Lifecycle", "Agile / Waterfall", "Change Management", "Quality Management"],
+        "Soft Skills": ["Leadership", "Communication", "Problem-solving", "Negotiation"]
+    },
+    "Business Analyst": {
+        "Analysis Skills": ["Requirement Gathering", "Process Modeling", "SWOT Analysis", "Data Interpretation"],
+        "Tools": ["Excel", "Tableau", "PowerBI", "Visio", "Jira"],
+        "Concepts": ["Business Process Management", "Stakeholder Analysis", "Gap Analysis"],
+        "Soft Skills": ["Analytical Thinking", "Communication", "Problem-solving"]
+    },
+    "Customer Support / Service Executive": {
+        "Skills": ["Customer Communication", "Problem Resolution", "Ticketing Systems", "CRM Management"],
+        "Tools": ["Zendesk", "Freshdesk", "HubSpot CRM", "Salesforce Service Cloud"],
+        "Concepts": ["Customer Satisfaction", "Service Quality", "Complaint Handling"],
+        "Soft Skills": ["Empathy", "Patience", "Active Listening", "Conflict Resolution"]
+    },
+    "Operations Manager": {
+        "Skills": ["Process Optimization", "Inventory Management", "Supply Chain Management", "Logistics"],
+        "Tools": ["SAP", "Oracle NetSuite", "ERP Systems", "Excel"],
+        "Concepts": ["Operational Efficiency", "Resource Planning", "Budget Management"],
+        "Soft Skills": ["Leadership", "Decision Making", "Problem-solving", "Time Management"]
+    },
+    "Teacher / Educator": {
+        "Skills": ["Lesson Planning", "Curriculum Design", "Student Assessment", "Classroom Management"],
+        "Tools": ["Google Classroom", "Moodle", "Zoom", "MS Teams", "Educational Apps"],
+        "Concepts": ["Pedagogy", "Learning Styles", "Educational Psychology"],
+        "Soft Skills": ["Communication", "Patience", "Adaptability", "Empathy"]
+    },
+    "Event Manager": {
+        "Skills": ["Event Planning", "Vendor Management", "Budgeting", "Logistics", "Marketing"],
+        "Tools": ["Eventbrite", "Cvent", "Trello", "Excel"],
+        "Concepts": ["Event Coordination", "Risk Management", "Audience Engagement"],
+        "Soft Skills": ["Communication", "Negotiation", "Creativity", "Problem-solving"]
+    }
+,
+    "Legal Advisor / Corporate Lawyer": {
+        "Skills": ["Contract Drafting", "Legal Research", "Compliance Management", "Litigation Support"],
+        "Tools": ["LexisNexis", "Westlaw", "Clio", "DocuSign"],
+        "Concepts": ["Corporate Law", "Intellectual Property", "Employment Law", "Regulatory Compliance"],
+        "Soft Skills": ["Analytical Thinking", "Attention to Detail", "Communication", "Negotiation"]
+    }
+,
+
+    "Junior Software Developer / Trainee Developer": {
+        "Skills": ["Basic Programming", "Debugging", "Code Documentation", "Understanding APIs"],
+        "Tools": ["VS Code", "Git", "Python", "Java", "HTML/CSS", "JavaScript"],
+        "Concepts": ["Basic Data Structures & Algorithms", "Version Control", "Software Development Lifecycle"],
+        "Soft Skills": ["Learning Agility", "Collaboration", "Problem-solving"]
+    },
+    "Junior QA / Tester / Test Analyst": {
+        "Skills": ["Manual Testing", "Bug Reporting", "Test Case Writing"],
+        "Tools": ["Jira", "TestRail", "Postman", "Selenium (basic)"],
+        "Concepts": ["QA Methodologies", "Software Development Lifecycle", "Test Documentation"],
+        "Soft Skills": ["Attention to Detail", "Communication", "Patience"]
+    },
+    "Junior Data Analyst / Trainee Data Analyst": {
+        "Skills": ["Data Cleaning", "Basic Excel & SQL Queries", "Reporting", "Simple Data Visualizations"],
+        "Tools": ["Excel", "Google Sheets", "SQL", "Tableau (basic)", "PowerBI (basic)"],
+        "Concepts": ["Descriptive Statistics", "Data Interpretation", "Business Metrics Basics"],
+        "Soft Skills": ["Analytical Thinking", "Attention to Detail", "Communication"]
+    },
+    "Junior DevOps / Cloud Intern": {
+        "Skills": ["Basic Scripting", "CI/CD Pipeline Understanding", "Monitoring Basics"],
+        "Tools": ["Git", "Docker (basic)", "Jenkins (basic)", "AWS / Azure / GCP (basic)"],
+        "Concepts": ["Cloud Fundamentals", "Automation Basics", "Version Control"],
+        "Soft Skills": ["Problem-solving", "Learning Agility", "Collaboration"]
+    },
+    "Frontend Developer Intern (Entry-Level)": {
+        "Skills": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+        "Tools": ["VS Code", "Chrome DevTools", "Git", "Basic React or Angular"],
+        "Concepts": ["DOM Manipulation", "Basic Component Structure", "Responsive Layouts"],
+        "Soft Skills": ["Creativity", "Attention to Detail", "Collaboration"]
+    },
+    "Backend Developer Intern (Entry-Level)": {
+        "Skills": ["Basic Server-side Programming", "Database Queries", "API Consumption"],
+        "Tools": ["Python", "Node.js", "MySQL/PostgreSQL", "Git"],
+        "Concepts": ["REST API Basics", "CRUD Operations", "MVC Pattern"],
+        "Soft Skills": ["Problem-solving", "Collaboration", "Communication"]
+    },
+    "Junior Cybersecurity / Security Analyst (Entry-Level)": {
+        "Skills": ["Basic Threat Detection", "Log Monitoring", "Vulnerability Scanning"],
+        "Tools": ["Wireshark", "Nmap", "Kali Linux (basic)", "SIEM Tools (basic)"],
+        "Concepts": ["Network Security Fundamentals", "Incident Response Basics"],
+        "Soft Skills": ["Analytical Thinking", "Attention to Detail", "Problem-solving"]
+    }
+}
+
+
+

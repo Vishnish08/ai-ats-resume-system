@@ -1,0 +1,17 @@
+streamlit
+google-generativeai
+pdfplumber
+docx2txt
+python-docx
+faiss-cpu
+sentence-transformers
+torch
+torchvision
+torchaudio
+python-dotenv
+pandas
+numpy
+scikit-learn
+dotenv
+
+#python -m pip install -r requirements.txt

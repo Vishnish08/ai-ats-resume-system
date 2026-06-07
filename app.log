@@ -1,0 +1,36 @@
+2025-11-05 23:43:58,981 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:44:01,467 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:47:17,488 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:47:20,965 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:52:40,388 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-05 23:52:40,397 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:52:43,539 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:53:01,409 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-05 23:53:01,412 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:53:04,794 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:53:24,192 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-05 23:53:24,193 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:53:26,974 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:54:17,114 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-05 23:54:17,115 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:54:20,015 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:56:54,471 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:56:57,507 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:56:57,510 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-05 23:58:51,698 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:58:54,577 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:58:54,579 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-05 23:59:53,192 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-05 23:59:56,244 - INFO - Use pytorch device_name: cpu
+2025-11-05 23:59:56,246 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-06 00:07:14,491 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-06 00:07:18,488 - INFO - Use pytorch device_name: cpu
+2025-11-06 00:07:18,490 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-06 00:07:18,492 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-06 00:07:21,649 - INFO - Use pytorch device_name: cpu
+2025-11-06 00:18:14,217 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-06 00:18:14,219 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-06 00:18:17,505 - INFO - Use pytorch device_name: cpu
+2025-11-06 00:18:28,944 - WARNING - Python-dotenv could not parse statement starting at line 2
+2025-11-06 00:18:28,946 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-06 00:18:32,019 - INFO - Use pytorch device_name: cpu
